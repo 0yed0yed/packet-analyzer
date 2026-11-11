@@ -1,0 +1,15 @@
+{
+  "_comment": "كلهم تخمينات موروثة من السكربت الأصلي وغير موثّقة. غيّر confidence إلى 'confirmed' بعد ما تتأكد.",
+  "0515": {"name": "SQUAD",    "confidence": "guess", "notes": "inherited from original script; unverified"},
+  "1215": {"name": "GUILD",    "confidence": "guess", "notes": "inherited from original script; unverified"},
+  "0E00": {"name": "BASIC",    "confidence": "guess", "notes": "inherited from original script; unverified"},
+  "1200": {"name": "MESSAGE",  "confidence": "guess", "notes": "inherited from original script; unverified"},
+  "1600": {"name": "FRIEND",   "confidence": "guess", "notes": "inherited from original script; unverified"},
+  "0500": {"name": "GHOST",    "confidence": "guess", "notes": "inherited from original script; unverified"},
+  "0300": {"name": "AUTH",     "confidence": "guess", "notes": "inherited from original script; unverified"},
+  "1D00": {"name": "UPDATE",   "confidence": "guess", "notes": "inherited from original script; unverified"},
+  "2F33": {"name": "ENCRYPT",  "confidence": "guess", "notes": "inherited from original script; unverified. Used as the KEY/IV source packet"},
+  "0F00": {"name": "CONNECT",  "confidence": "guess", "notes": "inherited from original script; unverified"},
+  "0F15": {"name": "ADVANCED", "confidence": "guess", "notes": "inherited from original script; unverified"},
+  "0E15": {"name": "SYSTEM",   "confidence": "guess", "notes": "inherited from original script; unverified"}
+}
